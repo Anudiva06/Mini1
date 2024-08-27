@@ -1,1 +1,1 @@
-# Mini1
+# Photobooth frontend 
